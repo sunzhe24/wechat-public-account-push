@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '7f4f658b52a84b99275a4135f4c9c75d',
 
   PROVINCE: '天津',
-  CITY: '滨海新区',
+  CITY: '天津',
 
   USERS: [
     {
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '徐念晨', year: '1998', date: '07-01',
+          type: '*生日', name: '孙哲', year: '1996', date: '09-13',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
